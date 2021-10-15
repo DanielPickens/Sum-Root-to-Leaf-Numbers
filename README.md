@@ -1,5 +1,5 @@
 # Sum-root-to-Leaf-Numbers
-My 9 line JavaScript solution that is faster than 95% of solutions on Leetcode.
+My 9 line JavaScript solution that is faster than 95% of accepted solutions on Leetcode.
 
 "You are given the root of a binary tree containing digits from 0 to 9 only.
 
